@@ -6,7 +6,7 @@ EpicEditor is an embeddable JavaScript [Markdown](http://daringfireball.net/proj
 
 ## Why
 
-Because, WYSIWYGs suck. Markdown is quickly becoming the replacement. [GitHub](http://github.com), [Stackoverflow](http://stackoverflow.com), and even blogging apps like [Posterous](http://posterous.com) are now supporting Markdown. EpicEditor allows you to create a Markdown editor with a single line of JavaScript:
+Because, WYSIWYGs suck. Markdown is quickly becoming the replacement. [GitHub](http://github.com), [Stackoverflow](http://stackoverflow.com) are now supporting Markdown. EpicEditor allows you to create a Markdown editor with a single line of JavaScript:
 
 ```javascript
 var editor = new EpicEditor().load();
